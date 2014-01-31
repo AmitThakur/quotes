@@ -16,4 +16,12 @@ quotes
 
 **-Lord Kelvin**
 
+---
+
+##### q003
+> Not everything that can be counted counts, and not everything that counts can be counted.
+
+**-Albert Einstein**
+
+
 
