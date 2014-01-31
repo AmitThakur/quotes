@@ -3,7 +3,7 @@ quotes
 
 Quotes that matter
 
-> *I hear and I forget. I see and I remember. I do and I understand.* --_Confucius
+> *I hear and I forget. I see and I remember. I do and I understand.* --Confucius
 
 ---
 
