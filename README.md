@@ -1,8 +1,9 @@
 quotes
 ======
 
-Quotes that matter
----
+*Quotes that matter*
+
+
 ##### q001
 > I hear and I forget. I see and I remember. I do and I understand. 
 
