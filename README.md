@@ -28,3 +28,24 @@ quotes
 > Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful. 
 
 **-Harvey Mackay**
+
+
+##### q005
+> If you don't start somewhere, you're gonna go nowhere.
+
+**-Bob Marley**
+
+
+##### q006
+> Efficiency is doing things right;
+> effectiveness is doing the right things.
+
+**-Peter Drucker**
+
+
+##### q007
+> Talk is cheap, show me the code.
+
+**-Linus Torvalds**
+
+
