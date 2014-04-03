@@ -53,3 +53,8 @@ quotes
 
 **-Albert Einstein**
 
+##### q009
+> Technical skill is mastery of complexity, while creativity is mastery of simplicity.
+
+**-Erik Christopher Zeeman**
+
