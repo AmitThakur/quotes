@@ -58,3 +58,22 @@ quotes
 
 **-Erik Christopher Zeeman**
 
+##### q010
+> Take time to be an impartial observer of life particularly when an ending is causing despair.
+
+**-Lao Tzu**
+
+##### q011
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+
+**-Albert Einstein**
+
+##### q012
+> The only source of knowledge is experience. 
+
+**-Albert Einstein**
+
+##### q013
+> Experience is not what happens to a man. It is what a man does with what happens to him.
+
+**-Aldous Leonard Huxley**
