@@ -77,3 +77,8 @@ quotes
 > Experience is not what happens to a man. It is what a man does with what happens to him.
 
 **-Aldous Leonard Huxley**
+
+##### q014
+> The only true wisdom is in knowing you know nothing.
+
+**-Socrates**
